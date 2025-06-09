@@ -1,0 +1,13 @@
+{
+  "name": "photogrammetry-360-app",
+  "version": "1.0.0",
+  "description": "Desktop photogrammetry app with Electron and Three.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^29.0.0",
+    "three": "^0.155.0"
+  }
+}
